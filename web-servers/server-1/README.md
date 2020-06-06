@@ -1,13 +1,14 @@
 Using `http.server` module
 ===
 
+
  ## Running a demo server 
 
  1. Open up a terminal.
  
  2. `cd` into a directory that has some files in it (maybe a directory containing some text files, HTML files, or images ).
  
- 3. Run `python3 -m http.server 8000` in your terminal.
+ 3. Run `python -m http.server 8000` in your terminal.
 
 
 ## Description
