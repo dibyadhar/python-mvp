@@ -13,7 +13,7 @@ def read_text(file_name):
   content = content.replace("\n", " ")
   text = content.replace(' ','%')
 
-  # Invoke profanity check function
+  # Check curse word 
   check_profanity(text)
 
 
