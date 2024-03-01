@@ -33,3 +33,7 @@ Serving HTTP on 0.0.0.0 port 8000 ...
 127.0.0.1 - - [03/Oct/2016 13:49:23] code 404, message File not found
 127.0.0.1 - - [03/Oct/2016 13:49:23] "GET /NotExistyFile HTTP/1.1" 404 -
 ```
+
+RFC 9110
+HTTP Semantics
+https://www.rfc-editor.org/rfc/rfc9110.html
