@@ -37,3 +37,6 @@ Serving HTTP on 0.0.0.0 port 8000 ...
 RFC 9110
 HTTP Semantics
 https://www.rfc-editor.org/rfc/rfc9110.html
+
+URI Schemes by IANA
+https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml
